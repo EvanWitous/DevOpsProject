@@ -10,7 +10,7 @@ public class TestCalculator {
 
         int output = calc.Addition(9, 10);
 
-        assertEquals(19, output);
+        assertEquals(21, output);
     }
 
     @Test
