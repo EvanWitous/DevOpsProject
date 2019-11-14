@@ -20,7 +20,7 @@ public class TestCalculator {
 
         int output = calc.Subtraction(20, 10);
 
-        assertEquals(10, output);
+        assertEquals(21, output);
     }
 
 }
